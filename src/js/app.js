@@ -1,6 +1,6 @@
 // TODO: write your code here
 import sum from './basic';
-import {obj, orderByProps} from '../js/forIn';
+import {obj, orderByProps} from '../js/work';
 
 orderByProps(obj, ["name", "level"])
 

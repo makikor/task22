@@ -17,6 +17,6 @@ export function orderByProps(obj, arr){
         newArr.unshift(x[i]);
     }
 
-
+    console.log(newArr)
     return (newArr);
 }
